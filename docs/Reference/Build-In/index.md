@@ -1,6 +1,11 @@
+---
+---
+
 # 页面设置
 
-## 设置Title
+[Reference - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/)
+
+## 1. 设置Title
 
 ```
 ---
@@ -11,7 +16,8 @@ title: Lorem ipsum dolor sit amet
 ...
 ```
 
-## 设置描述
+## 2. 设置描述
+
 ```
 ---
 description: Nullam urna elit, malesuada eget finibus ut, ac tortor. 
@@ -21,7 +27,8 @@ description: Nullam urna elit, malesuada eget finibus ut, ac tortor.
 ...
 ```
 
-## 设置Icon
+## 3. 设置Icon
+
 ```
 ---
 icon: material/emoticon-happy 
@@ -31,7 +38,8 @@ icon: material/emoticon-happy
 ...
 ```
 
-## 设置状态
+## 4. 设置状态
+
 可以为每个页面分配一个状态，该状态将显示在导航侧边栏中。首先，通过将以下内容添加到 `mkdocs.yml` ，将状态标识符与描述关联起来：
 ```
 extra:
@@ -43,6 +51,26 @@ extra:
 ```
 ---
 status: new
+---
+
+# Page title
+...
+```
+
+以下的标识符已经预定义：
+
+- :material-alert-decagram: – `new`
+- :material-trash-can: – `deprecated`
+
+参考[example for a custom page status](https://mkdocs-material.github.io/examples/page-status/)设置更多的状态。
+
+## 5. 设置副标题
+
+每个页面都可以定义一个副标题，使用 front matter `subtitle` 属性在导航侧边栏的标题下方呈现，并添加以下行：
+
+```
+---
+subtitle: Nullam urna elit, malesuada eget finibus ut, ac tortor
 ---
 
 # Page title

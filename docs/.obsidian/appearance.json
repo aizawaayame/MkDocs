@@ -1,4 +1,15 @@
 {
-  "baseFontSize": 14,
-  "theme": "moonstone"
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "figure",
+    "隐藏LICENSE文件和logseq文件夹"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false
 }
