@@ -7,6 +7,6 @@
       "build": "mkdocs build -d public"
     },
     "dependencies": {
-      "minify": "^14.0.0",
+      "minify": "^14.0.0"
     }
   }
