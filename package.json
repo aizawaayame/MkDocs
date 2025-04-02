@@ -1,6 +1,5 @@
 {
     "name": "mkdocs",
-    "version": "lastest",
     "private": true,
     "scripts": {
       "dev": "mkdocs serve",
