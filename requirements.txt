@@ -24,3 +24,4 @@ requests~=2.26
 mkdocs-glightbox
 mkdocs-roamlinks-plugin
 mkdocs-rss-plugin
+mkdocs-minify-plugin
