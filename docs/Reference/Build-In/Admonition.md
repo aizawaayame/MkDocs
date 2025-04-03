@@ -4,7 +4,7 @@ date modified: 2025-04-02
 ---
 [Admonitions - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks-inline-end)
 
-## 1. Configuration
+## Configuration
 
 将以下行添加到 `mkdocs.yml` :
 ```yaml
@@ -27,9 +27,9 @@ theme:
       <type>: <icon>
 ```
 
-## 2. Usage
+## Usage
 
-### 2.1. 类型
+### 类型
 
 !!! note "note"  
     note  
@@ -56,21 +56,21 @@ theme:
 !!! quote  
 	quote
 
-### 2.2. 嵌套
+### 嵌套
 
 !!! note "Outer"  
 	outer  
 	!!! note "Inner"  
 		inner
 
-### 2.3. 可折叠的块
+### 可折叠的块
 
 ??? note  
 	可折叠  
 ???+ note  
 	可折叠且默认展开
 
-### 2.4. 内联块
+### 内联块
 
 提示框也可以呈现为内联块（例如，用于侧边栏），使用 `inline` + `end` 修饰符将其放置在右侧，或者仅使用 `inline` 修饰符将其放置在左侧：
 

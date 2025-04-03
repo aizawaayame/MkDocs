@@ -4,7 +4,7 @@ date modified: 2025-04-03
 ---
 [Annotations - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/annotations/#__codelineno-0-4)
 
-## 1. Configuration
+## Configuration
 
 此配置允许将注释添加到所有内联和块级元素，以及代码块，并将注释相互嵌套。将以下行添加到 `mkdocs.yml` ：
 ```yaml
@@ -19,7 +19,7 @@ markdown_extensions:
 - [SuperFences](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#superfences)
 
 
-## 2. Usage
+## Usage
 
 这是一段注释(1)。  
 {.annotate}
@@ -31,7 +31,7 @@ markdown_extensions:
 	- `{.annotate}` 必须换行书写。  
 	- 注释内容必须空一行。
 
-### 2.1. 嵌套注释
+### 嵌套注释
 
 这是外部注释(1)。  
 {.annotate}
@@ -41,7 +41,7 @@ markdown_extensions:
    
 	1.  :woman_raising_hand: I'm an annotation as well!
 
-### 2.2. Admonition中的注释
+### Admonition中的注释
 
 !!! note annotate " Admonition中的注释(1)"  
     - 不需要 `{.annotate}` 标记(2) 。  
@@ -50,7 +50,7 @@ markdown_extensions:
 1.  :man_raising_hand: I'm an annotation!
 2.  :woman_raising_hand: I'm an annotation as well!
 
-### 2.3. Content Tab中的注释
+### Content Tab中的注释
 
 === "Tab1"  
 	注释1(1)  
@@ -63,7 +63,7 @@ markdown_extensions:
 
 	2. :woman_raising_hand: I'm an annotation as well!
 
-### 2.4. HTML标签实现注释
+###  HTML标签实现注释
 
 <div class="annotate" markdown>
 

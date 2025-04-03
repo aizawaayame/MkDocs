@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Build-In/Code Block.md",
+                "file": "Reference/Build-In/Icon.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Code Block"
+              "title": "Icon"
             }
           }
         ],
@@ -199,10 +199,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Reference/Build-In/Code Block.md"
+                "file": "Reference/Build-In/Icon.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Code Block"
+              "title": "File properties for Icon"
             }
           },
           {
@@ -249,10 +249,15 @@
   },
   "active": "93527480a3d4c8dc",
   "lastOpenFiles": [
-    "Reference/Build-In/Annotations.md",
-    "Reference/Build-In/Code Block.md",
-    "Reference/Build-In/index.md",
+    "Reference/Build-In/Grid.md",
+    "Reference/Build-In/Icon.md",
     "Reference/Build-In/Admonition.md",
+    "Reference/Build-In/Formatting.md",
+    "Reference/Build-In/Annotation.md",
+    "Reference/Build-In/Code Block.md",
+    "Reference/Build-In/Content Tab.md",
+    "Reference/Build-In/Footnote.md",
+    "Reference/Build-In/index.md",
     "HOMEPAGE.md",
     "Area/Math/算法/排序算法.md",
     "Area/Math/算法/动态规划.md",
@@ -270,11 +275,6 @@
     "Area/UE5/UE5反射系统/Unreal Interface.md",
     "Area/UE5/UE5反射系统/StaticClass.md",
     "Area/UE5/UE5小知识/UE轴向.md",
-    "Area/UE5/Animation/TwoBoneIK.md",
-    "Area/C++/C++必会基础.md",
-    "Area/C++/CPP 100问.md",
-    "Area/C++/CPP小坑记录.md",
-    "Area/C++/C++11语法速览.md",
     "Area/文学",
     "Area/C++/cpp基础",
     "Area/Math/算法/图论",
