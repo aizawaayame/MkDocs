@@ -1,6 +1,6 @@
 ---
 date created: 2025-04-02
-date modified: 2025-04-02
+date modified: 2025-04-03
 ---
 [Annotations - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/annotations/#__codelineno-0-4)
 
@@ -17,6 +17,7 @@ markdown_extensions:
 - [Attribute Lists  属性列表](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#attribute-lists)
 - [Markdown in HTML  HTML 中的 Markdown](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#markdown-in-html)
 - [SuperFences](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#superfences)
+
 
 ## 2. Usage
 
@@ -50,3 +51,24 @@ markdown_extensions:
 2.  :woman_raising_hand: I'm an annotation as well!
 
 ### 2.3. Content Tab中的注释
+
+=== "Tab1"  
+	注释1(1)  
+	{.annotate}
+
+	1. :man_raising_hand: I'm an annotation!
+=== "Tab2"  
+	注释2(1)  
+	{.annotate}
+
+	2. :woman_raising_hand: I'm an annotation as well!
+
+### 2.4. HTML标签实现注释
+
+<div class="annotate" markdown>
+
+> Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
+
+</div>
+
+1.  :man_raising_hand: I'm an annotation!

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Build-In/Annotations.md",
+                "file": "Reference/Build-In/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Annotations"
+              "title": "index"
+            }
+          },
+          {
+            "id": "93527480a3d4c8dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Build-In/Code Block.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Code Block"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,10 +199,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Reference/Build-In/Annotations.md"
+                "file": "Reference/Build-In/Code Block.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Annotations"
+              "title": "File properties for Code Block"
             }
           },
           {
@@ -222,12 +247,13 @@
       "obsidian-language-learner:Data Panel": false
     }
   },
-  "active": "be04d1a90a5d8eaf",
+  "active": "93527480a3d4c8dc",
   "lastOpenFiles": [
-    "Reference/Build-In/Admonition.md",
     "Reference/Build-In/Annotations.md",
-    "HOMEPAGE.md",
+    "Reference/Build-In/Code Block.md",
     "Reference/Build-In/index.md",
+    "Reference/Build-In/Admonition.md",
+    "HOMEPAGE.md",
     "Area/Math/算法/排序算法.md",
     "Area/Math/算法/动态规划.md",
     "Area/UE5/Animation/骨架变换模式.md",
@@ -249,7 +275,6 @@
     "Area/C++/CPP 100问.md",
     "Area/C++/CPP小坑记录.md",
     "Area/C++/C++11语法速览.md",
-    "Area/UE5/Game Engine Core/生命周期.md",
     "Area/文学",
     "Area/C++/cpp基础",
     "Area/Math/算法/图论",
