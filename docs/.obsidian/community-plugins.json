@@ -20,7 +20,6 @@
   "table-editor-obsidian",
   "find-unlinked-files",
   "note-refactor-obsidian",
-  "obsidian42-brat",
   "quickadd",
   "text-extractor",
   "nldates-obsidian",
@@ -44,5 +43,6 @@
   "oz-clear-unused-images",
   "mathlinks",
   "easy-typing-obsidian",
-  "code-styler"
+  "code-styler",
+  "file-order"
 ]

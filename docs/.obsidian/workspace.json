@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Build-In/Icon.md",
+                "file": "C++/基础语法/关键字.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Icon"
+              "title": "关键字"
             }
           }
         ],
@@ -199,10 +199,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Reference/Build-In/Icon.md"
+                "file": "C++/基础语法/index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Icon"
+              "title": "File properties for index"
             }
           },
           {
@@ -232,32 +232,29 @@
     "hiddenItems": {
       "workspaces:Manage workspace layouts": false,
       "graph:Open graph view": false,
-      "homepage:Open homepage": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today's daily note": false,
-      "obsidian-memos:Thino": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-language-learner:Open word search panel": false,
-      "obsidian-language-learner:Open new word panel": false,
-      "obsidian-language-learner:Open statistics": false,
-      "obsidian-language-learner:Data Panel": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "93527480a3d4c8dc",
   "lastOpenFiles": [
-    "Reference/Build-In/Grid.md",
-    "Reference/Build-In/Icon.md",
-    "Reference/Build-In/Admonition.md",
-    "Reference/Build-In/Formatting.md",
     "Reference/Build-In/Annotation.md",
-    "Reference/Build-In/Code Block.md",
+    "C++/基础语法/关键字.md",
+    "Reference/Build-In/Admonition.md",
+    "C++/基础语法/index.md",
     "Reference/Build-In/Content Tab.md",
-    "Reference/Build-In/Footnote.md",
+    "blog/index.md",
     "Reference/Build-In/index.md",
+    "Reference/Build-In/Icon.md",
+    "Reference/Build-In/Grid.md",
+    "Reference/Build-In/Formatting.md",
+    "Reference/Build-In/Footnote.md",
+    "Reference/Build-In/Code Block.md",
+    "C++/基础语法",
+    "C++",
     "HOMEPAGE.md",
     "Area/Math/算法/排序算法.md",
     "Area/Math/算法/动态规划.md",
@@ -272,9 +269,6 @@
     "Area/UE5/Animation/一句话总结.md",
     "Area/UE5/Gameplay Framework/Character, PlayerController, CharacterMovementComponent.md",
     "Area/UE5/Gameplay Framework/UE3C 微观接口拾遗.md",
-    "Area/UE5/UE5反射系统/Unreal Interface.md",
-    "Area/UE5/UE5反射系统/StaticClass.md",
-    "Area/UE5/UE5小知识/UE轴向.md",
     "Area/文学",
     "Area/C++/cpp基础",
     "Area/Math/算法/图论",
@@ -283,8 +277,6 @@
     "Area/C++/模版",
     "Area/C++/modern c++ design",
     "Area/UE5/Game Engine Core/GC",
-    "Area/UE5/UE5小知识",
-    "Area/Math/算法/数组",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",

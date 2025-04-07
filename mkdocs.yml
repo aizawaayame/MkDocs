@@ -18,8 +18,8 @@ theme:
   custom_dir: 'material/templates'
   features:
   - announce.dismiss
-  - content.action.edit
-  - content.action.view
+  # - content.action.edit
+  # - content.action.view
   - content.code.annotate
   - content.code.copy
   - content.code.select
@@ -159,3 +159,5 @@ extra:
       link: https://fosstodon.org/@squidfunk
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/squidfunk
+
+

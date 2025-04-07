@@ -1,9 +1,20 @@
 {
-    "name": "mkdocs",
+    "name": "tanedanobata-wiki",
+    "version": "1.0.0",
+    "description": "wiki for tanedanobata / aizawaayame",
+    "main": "index.js",
+    "type": "module",
     "private": true,
+    "directories": {
+      "doc": "docs"
+    },
     "scripts": {
       "dev": "mkdocs serve",
       "build": "mkdocs build -d public"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/aizawaayame/tanedanobata-blog.git"
     },
     "dependencies": {
       "minify": "^14.0.0"
