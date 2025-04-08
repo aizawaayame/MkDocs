@@ -160,4 +160,23 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/squidfunk
 
+extra_css:
+  - '_static/css/extra.css?v=16'
 
+nav:
+  - About: index.md
+  - C++:
+    - 基础语法:
+      - C++/基础语法/关键字.md
+  - Reference:
+    - Reference/Build-In/index.md
+    - Reference/Build-In/Admonition.md
+    - Reference/Build-In/Annotation.md
+    - Reference/Build-In/Code Block.md
+    - Reference/Build-In/Content Tab.md
+    - Reference/Build-In/Footnote.md
+    - Reference/Build-In/Formatting.md
+    - Reference/Build-In/Grid.md
+    - Reference/Build-In/Icon.md
+  - Blog:
+    - blog/index.md

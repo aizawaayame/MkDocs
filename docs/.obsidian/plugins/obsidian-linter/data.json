@@ -26,7 +26,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": ""
+      "text-to-insert": "subtitle: "
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -38,8 +38,8 @@
       "yaml-keys-to-remove": ""
     },
     "yaml-key-sort": {
-      "enabled": false,
-      "yaml-key-priority-sort-order": "sr-due\nsr-interval\nsr-ease\n",
+      "enabled": true,
+      "yaml-key-priority-sort-order": "date created\ndate modified\ntitle\nsubtitle",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
@@ -56,8 +56,8 @@
       "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
-      "enabled": false,
-      "title-key": "",
+      "enabled": true,
+      "title-key": "title",
       "mode": "first-h1-or-filename-if-h1-missing"
     },
     "yaml-title-alias": {
