@@ -22,11 +22,11 @@
       "default-array-style": "single-line",
       "default-array-keys": true,
       "force-single-line-array-style": "",
-      "force-multi-line-array-style": ""
+      "force-multi-line-array-style": "categories\ntags"
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "subtitle: "
+      "text-to-insert": "categories: \nsubtitle: \ndraft: false\npin: false"
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -39,15 +39,15 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "date created\ndate modified\ntitle\nsubtitle",
+      "yaml-key-priority-sort-order": "date \ncategory\ntag\ntitle\nsubtitle\ndraft\npin",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
       "enabled": true,
       "date-created": true,
-      "date-created-key": "date created",
-      "date-modified": true,
+      "date-created-key": "date ",
+      "date-modified": false,
       "date-modified-key": "date modified",
       "format": "YYYY-MM-DD",
       "date-created-source-of-truth": "file system",

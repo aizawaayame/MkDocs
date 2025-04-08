@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Build-In/index.md",
+                "file": "blog/posts/实现一个基础的智能指针.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "93527480a3d4c8dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/基础语法/关键字.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "关键字"
+              "title": "实现一个基础的智能指针"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,8 +214,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "93527480a3d4c8dc",
+  "active": "be04d1a90a5d8eaf",
   "lastOpenFiles": [
+    "blog/index.md",
+    "blog/posts/实现一个基础的只能指针.md",
+    "blog/posts/实现一个基础的智能指针.md",
+    "Project/OnaGameSample/走跑混合.md",
+    "C++/基础语法/关键字.md",
+    "Reference/Build-In/index.md",
+    "Project/OnaGameSample",
+    "Project",
     "_static/js/oiwiki-feedback-sys-frontend.js",
     "_static/js/math-csr.js",
     "_static/css/han.css",
@@ -250,19 +233,14 @@
     "_static/css",
     "_static",
     "Reference/Build-In/Annotation.md",
-    "C++/基础语法/关键字.md",
     "Reference/Build-In/Admonition.md",
     "C++/基础语法/index.md",
     "Reference/Build-In/Content Tab.md",
-    "blog/index.md",
-    "Reference/Build-In/index.md",
     "Reference/Build-In/Icon.md",
     "Reference/Build-In/Grid.md",
     "Reference/Build-In/Formatting.md",
     "Reference/Build-In/Footnote.md",
     "Reference/Build-In/Code Block.md",
-    "C++/基础语法",
-    "C++",
     "HOMEPAGE.md",
     "Area/Math/算法/排序算法.md",
     "Area/Math/算法/动态规划.md",
@@ -274,9 +252,6 @@
     "Area/UE5/UE5 Gameplay.md",
     "Area/UE5/创建UObject的方式.md",
     "Area/UE5/UE5游戏客户端学习指南.md",
-    "Area/UE5/Animation/一句话总结.md",
-    "Area/UE5/Gameplay Framework/Character, PlayerController, CharacterMovementComponent.md",
-    "Area/文学",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",

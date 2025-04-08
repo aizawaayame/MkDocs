@@ -129,6 +129,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.blocks.caption
 
 # Plugins
 plugins:
@@ -168,6 +169,9 @@ nav:
   - C++:
     - 基础语法:
       - C++/基础语法/关键字.md
+  - Project:
+    - OnaGameSample:
+      - Project/OnaGameSample/走跑混合.md
   - Reference:
     - Reference/Build-In/index.md
     - Reference/Build-In/Admonition.md
