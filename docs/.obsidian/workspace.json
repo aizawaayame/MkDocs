@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/posts/实现一个基础的智能指针.md",
+                "file": "UE/Network/Actor Role and Remote Role.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "实现一个基础的智能指针"
+              "title": "Actor Role and Remote Role"
             }
           }
         ]
@@ -216,9 +216,20 @@
   },
   "active": "be04d1a90a5d8eaf",
   "lastOpenFiles": [
+    "UE/GC/UE垃圾回收概述和应用.md",
+    "UE/Network/Actor Role and Remote Role.md",
+    "UE/Network",
+    "blog/posts/实现一个基础的智能指针.md",
+    "UE/Core",
+    "Reference/Build-In/Annotation.md",
+    "Reference/Build-In/Code Block.md",
+    "Reference/Build-In/Content Tab.md",
+    "Reference/Build-In/Formatting.md",
+    "Reference/Build-In/Footnote.md",
+    "UE/GC",
+    "UE",
     "blog/index.md",
     "blog/posts/实现一个基础的只能指针.md",
-    "blog/posts/实现一个基础的智能指针.md",
     "Project/OnaGameSample/走跑混合.md",
     "C++/基础语法/关键字.md",
     "Reference/Build-In/index.md",
@@ -228,19 +239,10 @@
     "_static/js/math-csr.js",
     "_static/css/han.css",
     "_static/css/offset-inject-debug.css",
-    "_static/css/extra.css",
-    "_static/js",
-    "_static/css",
-    "_static",
-    "Reference/Build-In/Annotation.md",
     "Reference/Build-In/Admonition.md",
     "C++/基础语法/index.md",
-    "Reference/Build-In/Content Tab.md",
     "Reference/Build-In/Icon.md",
     "Reference/Build-In/Grid.md",
-    "Reference/Build-In/Formatting.md",
-    "Reference/Build-In/Footnote.md",
-    "Reference/Build-In/Code Block.md",
     "HOMEPAGE.md",
     "Area/Math/算法/排序算法.md",
     "Area/Math/算法/动态规划.md",
@@ -250,8 +252,6 @@
     "Area/UE5/UE5小知识/UE蓝图参数传递.md",
     "Area/UE5/OnaALS项目记录.md",
     "Area/UE5/UE5 Gameplay.md",
-    "Area/UE5/创建UObject的方式.md",
-    "Area/UE5/UE5游戏客户端学习指南.md",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",
