@@ -170,13 +170,18 @@ nav:
     - 基础语法:
       - C++/基础语法/关键字.md
   - UE:
-    - GC:
-      - UE/GC/UE垃圾回收概述和应用.md
+    - Core:
+      - GC:
+        - UE/Core/GC/UE垃圾回收概述和应用.md
+    - Framework:
+      - Actor:
+        - UE/Framework/Actor/Actor.md
     - Network:
       - UE/Network/Actor Role and Remote Role.md
   - Project:
     - OnaGameSample:
       - Project/OnaGameSample/走跑混合.md
+      - Project/OnaGameSample/相机模块设计.md
   - Reference:
     - Reference/Build-In/index.md
     - Reference/Build-In/Admonition.md

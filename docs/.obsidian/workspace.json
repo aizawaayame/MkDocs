@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE/Network/Actor Role and Remote Role.md",
+                "file": "UE/Framework/Actor/Actor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Actor Role and Remote Role"
+              "title": "Actor"
             }
           }
         ]
@@ -214,10 +214,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "be04d1a90a5d8eaf",
+  "active": "341e789e9187f81a",
   "lastOpenFiles": [
-    "UE/GC/UE垃圾回收概述和应用.md",
+    "Project/OnaGameSample/相机模块设计.md",
+    "UE/Gameplay Framework/Actor/Actor.md",
+    "UE/Framework/Actor/Actor.md",
+    "UE/Framework/Components",
+    "UE/Framework/Actor",
+    "UE/Framework",
+    "UE/Gameplay Framework/Components",
+    "UE/Gameplay Framework/Actor",
+    "UE/Gameplay Framework",
     "UE/Network/Actor Role and Remote Role.md",
+    "UE/Core/GC/UE垃圾回收概述和应用.md",
     "UE/Network",
     "blog/posts/实现一个基础的智能指针.md",
     "UE/Core",
@@ -226,19 +235,13 @@
     "Reference/Build-In/Content Tab.md",
     "Reference/Build-In/Formatting.md",
     "Reference/Build-In/Footnote.md",
-    "UE/GC",
+    "UE/Core/GC",
     "UE",
     "blog/index.md",
     "blog/posts/实现一个基础的只能指针.md",
     "Project/OnaGameSample/走跑混合.md",
     "C++/基础语法/关键字.md",
     "Reference/Build-In/index.md",
-    "Project/OnaGameSample",
-    "Project",
-    "_static/js/oiwiki-feedback-sys-frontend.js",
-    "_static/js/math-csr.js",
-    "_static/css/han.css",
-    "_static/css/offset-inject-debug.css",
     "Reference/Build-In/Admonition.md",
     "C++/基础语法/index.md",
     "Reference/Build-In/Icon.md",
@@ -249,9 +252,6 @@
     "Area/UE5/Animation/骨架变换模式.md",
     "Area/简历.md",
     "Inbox/科目一.md",
-    "Area/UE5/UE5小知识/UE蓝图参数传递.md",
-    "Area/UE5/OnaALS项目记录.md",
-    "Area/UE5/UE5 Gameplay.md",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",
