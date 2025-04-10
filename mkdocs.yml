@@ -171,6 +171,8 @@ nav:
       - C++/基础语法/关键字.md
   - UE:
     - Core:
+      - Physics:
+        - UE/Core/Physics/轴向.md
       - GC:
         - UE/Core/GC/UE垃圾回收概述和应用.md
     - Framework:

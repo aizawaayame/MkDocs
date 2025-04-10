@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE/Framework/Actor/Actor.md",
+                "file": "UE/Core/Physics/轴向.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Actor"
+              "title": "轴向"
             }
           }
         ]
@@ -214,11 +214,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "341e789e9187f81a",
+  "active": "be04d1a90a5d8eaf",
   "lastOpenFiles": [
+    "Project/OnaGameSample/走跑混合.md",
     "Project/OnaGameSample/相机模块设计.md",
-    "UE/Gameplay Framework/Actor/Actor.md",
     "UE/Framework/Actor/Actor.md",
+    "UE/Core/Physics/轴向.md",
+    "UE/Core/Physics",
+    "UE/Gameplay Framework/Actor/Actor.md",
     "UE/Framework/Components",
     "UE/Framework/Actor",
     "UE/Framework",
@@ -236,10 +239,8 @@
     "Reference/Build-In/Formatting.md",
     "Reference/Build-In/Footnote.md",
     "UE/Core/GC",
-    "UE",
     "blog/index.md",
     "blog/posts/实现一个基础的只能指针.md",
-    "Project/OnaGameSample/走跑混合.md",
     "C++/基础语法/关键字.md",
     "Reference/Build-In/index.md",
     "Reference/Build-In/Admonition.md",
@@ -251,7 +252,6 @@
     "Area/Math/算法/动态规划.md",
     "Area/UE5/Animation/骨架变换模式.md",
     "Area/简历.md",
-    "Inbox/科目一.md",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",
