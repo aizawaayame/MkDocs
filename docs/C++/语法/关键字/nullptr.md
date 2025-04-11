@@ -1,46 +1,17 @@
 ---
-date created: 2025-04-07
-date modified: 2025-04-08
-title: 关键字
-subtitle:
+date : 2025-04-10
+title: nullptr
+subtitle: 
+draft: false
+pin: false
+categories: 
 ---
-
-## sizeof
-
-**测试**:  
-	:material-numeric-1:指针大小永远固定。取决于 **编译的目标平台的位数** 。32 位就是 4 字节，64 位就是 8 字节。
-
-**数组**：  
-	:material-numeric-1:数组 **作为函数参数时会退化为指针** ，大小按指针计算。
-
-**类**  
-	:material-numeric-1:struct 结构体要考虑 **字节对齐** 。  
-	:material-numeric-2:如果 class 配置了虚函数，则会在 **头部添加虚函数表** 。  
-	:material-numeric-3:空类会用 1 个字节进行 **占位** 。
-
-## const
-
-只需要记住 **const是优先左匹配的**。
-
-## static
-
-**局部变量**：  
-	:material-numeric-1: 变量只被初始化一次，保留在 **静态区** 直到程序结束。
-
-**全局变量**：  
-	:material-numeric-1: 变量具有 **文件作用域** 。
-
-**成员变量**：  
-	:material-numeric-1: 变量不会绑定到对象上。
-
-## nullptr
-
 在 C++11 之前，使用 `NULL` 来表示空指针。`NULL` 在模版匹配和重载函数匹配语义不清晰，而 `nullptr` 具有更加确定和清晰的语义。
 
 `nullptr` 是 c 11 中引入的新关键字，专门表示空指针，且具有特殊的类型 `nullptr_t`。  
 	:material-numeric-1: `nullptr_t` 是一个类型，`nullptr` 是一个实例。  
 	:material-numeric-2: `nullptr_t` 并不是指针类型，但能隐式转换为任意指针类型。  
-	:material-numeric-3: `nullptr_t` 能和指针类型进行关系运算。
+	:material-numeric-3: `nullptr_t` 能和指针类型进行关系运算。  
 <br/>
 
 ```cpp title="MSVC中NULL定义"
@@ -65,7 +36,7 @@ MSVC 中如果存在函数 `f(int)` 和重载版本 `f(int*)`，那么 `NULL` �
 
 </div>
 
-!!! abstract "Difference"
+!!! abstract "Difference"  
 	<div class="grid cards" markdown>
 
 	- `nullptr`
@@ -81,4 +52,3 @@ MSVC 中如果存在函数 `f(int)` 和重载版本 `f(int*)`，那么 `NULL` �
 		模版推导中，`NULL` 会被推导为 `int` 类型。作为 `int` 类型，可以隐式转换为指针类型。
 
 	</div>
-

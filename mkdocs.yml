@@ -167,8 +167,17 @@ extra_css:
 nav:
   - About: index.md
   - C++:
-    - 基础语法:
-      - C++/基础语法/关键字.md
+    - 语法:
+      - 关键字:
+        - C++/语法/关键字/sizeof.md
+        - C++/语法/关键字/static.md
+        - C++/语法/关键字/const.md
+        - C++/语法/关键字/nullptr.md
+      - 对象和类:
+        - C++/语法/对象和类/this指针.md
+    - 编译器:
+      - 编译器优化:
+        - C++/编译器/编译器优化/拷贝省略、RVO、NRVO优化策略.md
   - UE:
     - Core:
       - Physics:

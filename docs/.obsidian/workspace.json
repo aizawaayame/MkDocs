@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE/Core/Physics/轴向.md",
+                "file": "C++/语法/对象和类/this指针.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "轴向"
+              "title": "this指针"
             }
           }
         ]
@@ -174,10 +174,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C++/基础语法/index.md"
+                "file": "C++/语法/对象和类/this指针.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for this指针"
             }
           },
           {
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5,
-    "collapsed": true
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,12 +213,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "be04d1a90a5d8eaf",
+  "active": "341e789e9187f81a",
   "lastOpenFiles": [
+    "C++/编译器/编译器优化/拷贝省略、RVO、NRVO优化策略.md",
+    "C++/语法/对象和类/this指针.md",
+    "C++/语法/对象和类",
+    "Reference/Build-In/Content Tab.md",
+    "Reference/Build-In/Code Block.md",
+    "Reference/Build-In/Footnote.md",
+    "C++/语法/关键字/nullptr.md",
+    "C++/语法/关键字/static.md",
+    "C++/语法/关键字/关键字.md",
+    "C++/语法/关键字/const.md",
+    "C++/语法/关键字/sizeof.md",
+    "UE/Core/Physics/轴向.md",
+    "C++/编译器/编译器优化",
+    "C++/编译器",
+    "C++/语法",
     "Project/OnaGameSample/走跑混合.md",
     "Project/OnaGameSample/相机模块设计.md",
     "UE/Framework/Actor/Actor.md",
-    "UE/Core/Physics/轴向.md",
     "UE/Core/Physics",
     "UE/Gameplay Framework/Actor/Actor.md",
     "UE/Framework/Components",
@@ -227,31 +240,17 @@
     "UE/Framework",
     "UE/Gameplay Framework/Components",
     "UE/Gameplay Framework/Actor",
-    "UE/Gameplay Framework",
     "UE/Network/Actor Role and Remote Role.md",
     "UE/Core/GC/UE垃圾回收概述和应用.md",
-    "UE/Network",
     "blog/posts/实现一个基础的智能指针.md",
-    "UE/Core",
     "Reference/Build-In/Annotation.md",
-    "Reference/Build-In/Code Block.md",
-    "Reference/Build-In/Content Tab.md",
     "Reference/Build-In/Formatting.md",
-    "Reference/Build-In/Footnote.md",
-    "UE/Core/GC",
     "blog/index.md",
     "blog/posts/实现一个基础的只能指针.md",
-    "C++/基础语法/关键字.md",
     "Reference/Build-In/index.md",
     "Reference/Build-In/Admonition.md",
     "C++/基础语法/index.md",
     "Reference/Build-In/Icon.md",
-    "Reference/Build-In/Grid.md",
-    "HOMEPAGE.md",
-    "Area/Math/算法/排序算法.md",
-    "Area/Math/算法/动态规划.md",
-    "Area/UE5/Animation/骨架变换模式.md",
-    "Area/简历.md",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",
