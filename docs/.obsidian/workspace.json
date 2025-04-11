@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/语法/对象和类/this指针.md",
+                "file": "Project/UE/OnaGameSample/攀爬.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "this指针"
+              "title": "攀爬"
             }
           }
         ]
@@ -174,10 +174,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C++/语法/对象和类/this指针.md"
+                "file": "Project/UE/OnaGameSample/攀爬.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for this指针"
+              "title": "File properties for 攀爬"
             }
           },
           {
@@ -213,44 +213,44 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "341e789e9187f81a",
+  "active": "be04d1a90a5d8eaf",
   "lastOpenFiles": [
-    "C++/编译器/编译器优化/拷贝省略、RVO、NRVO优化策略.md",
-    "C++/语法/对象和类/this指针.md",
-    "C++/语法/对象和类",
-    "Reference/Build-In/Content Tab.md",
+    "Project/UE/OnaGameSample/相机模块设计.md",
+    "Project/UE/OnaGameSample/走跑混合.md",
+    "Project/UE/OnaGameSample/攀爬.md",
+    "Extras/Media/9AC5E41A.png",
+    "Extras/Media",
+    "Extras",
+    "_static/js/mathjax.js",
+    "Reference/Build-In/Admonition.md",
+    "Reference/Build-In/Annotation.md",
     "Reference/Build-In/Code Block.md",
+    "Reference/Build-In/index.md",
+    "Reference/Build-In/Icon.md",
+    "Reference/Build-In/Grid.md",
+    "Reference/Build-In/Formatting.md",
     "Reference/Build-In/Footnote.md",
+    "Reference/Build-In/Content Tab.md",
+    "UE/Framework/Actor/Actor.md",
+    "Project/UE/OnaGameSample",
+    "Project/UE",
+    "Project/UE Project/OnaGameSample/攀爬.md",
+    "Project/UE Project/OnaGameSample/走跑混合.md",
+    "Project/UE Project/OnaGameSample/相机模块设计.md",
+    "Project/UE Project/OnaGameSample",
+    "Project/UE Project",
+    "Project/OnaGameSample/UE Project/相机模块设计.md",
+    "Project/OnaGameSample/UE Project/攀爬.md",
+    "Project/OnaGameSample/UE Project",
+    "Project/OnaGameSample/攀爬.md",
+    "Project/OnaGameSample/相机模块设计.md",
+    "Project/OnaGameSample/走跑混合.md",
+    "C++/语法/对象和类/this指针.md",
+    "C++/编译器/编译器优化/拷贝省略、RVO、NRVO优化策略.md",
+    "C++/语法/对象和类",
     "C++/语法/关键字/nullptr.md",
     "C++/语法/关键字/static.md",
-    "C++/语法/关键字/关键字.md",
-    "C++/语法/关键字/const.md",
-    "C++/语法/关键字/sizeof.md",
-    "UE/Core/Physics/轴向.md",
     "C++/编译器/编译器优化",
-    "C++/编译器",
-    "C++/语法",
-    "Project/OnaGameSample/走跑混合.md",
-    "Project/OnaGameSample/相机模块设计.md",
-    "UE/Framework/Actor/Actor.md",
-    "UE/Core/Physics",
-    "UE/Gameplay Framework/Actor/Actor.md",
-    "UE/Framework/Components",
-    "UE/Framework/Actor",
-    "UE/Framework",
-    "UE/Gameplay Framework/Components",
-    "UE/Gameplay Framework/Actor",
-    "UE/Network/Actor Role and Remote Role.md",
-    "UE/Core/GC/UE垃圾回收概述和应用.md",
-    "blog/posts/实现一个基础的智能指针.md",
-    "Reference/Build-In/Annotation.md",
-    "Reference/Build-In/Formatting.md",
-    "blog/index.md",
-    "blog/posts/实现一个基础的只能指针.md",
-    "Reference/Build-In/index.md",
-    "Reference/Build-In/Admonition.md",
-    "C++/基础语法/index.md",
-    "Reference/Build-In/Icon.md",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",
@@ -262,7 +262,6 @@
     "Extras/Media/Pasted Image 20220320190802_762.png",
     "Extras/Draws/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Extras/Draws/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Extras/Draws/Scripts/Downloaded/Add Connector Point.svg",
-    "Extras/Draws/白板 2023-02-04.svg"
+    "Extras/Draws/Scripts/Downloaded/Add Connector Point.svg"
   ]
 }

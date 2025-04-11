@@ -20,11 +20,10 @@ Actor 视为容纳称为组件的特殊类型对象的容器。不同类型的�
 
 :material-numeric-1: `UActorComponent` 是所有组件的基类。
 
-:material-numeric-2: `USceneComponent` 具有变换的 `UActorComponent` 。
+:material-numeric-2: `USceneComponent` 具有变换的 `UActorComponent` 。  
 	Actor 的变换由 `USceneComponent` 层级结构根部的 `USceneComponent` 决定。
 
 :material-numeric-3: `UPrimitiveComponent` 是所有图形表示几何组件的基类。
-
 
 ## Root Component
 
@@ -64,5 +63,17 @@ FORCEINLINE const FTransform& AActor::ActorToWorld() const
 </div>
 
 ## 层级结构
+
+```mermaid
+graph LR
+    A[Actor] --> B["Root Component(SceneComponent)"]
+    A --> C[Actor Component]
+    A --> D[Actor Component]
+    A --> E["..."]
+    B --> F[Scene Component]
+    B --> G[Scene Component]
+    F --> H[Scene Component]
+    G --> I[Scene Component]
+```
 
 ## 创建和销毁

@@ -164,6 +164,10 @@ extra:
 extra_css:
   - '_static/css/extra.css?v=16'
 
+extra_javascript:
+  - _static/javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
 nav:
   - About: index.md
   - C++:
@@ -190,9 +194,11 @@ nav:
     - Network:
       - UE/Network/Actor Role and Remote Role.md
   - Project:
-    - OnaGameSample:
-      - Project/OnaGameSample/走跑混合.md
-      - Project/OnaGameSample/相机模块设计.md
+    - UE:
+      - OnaGameSample:
+        - Project/UE/OnaGameSample/走跑混合.md
+        - Project/UE/OnaGameSample/攀爬.md
+        - Project/UE/OnaGameSample/相机模块设计.md
   - Reference:
     - Reference/Build-In/index.md
     - Reference/Build-In/Admonition.md
