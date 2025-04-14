@@ -42,3 +42,9 @@ UE的垃圾回收机制采用 **追踪式，精确式，非搬迁式，非渐进
 > Unreal implements a garbage collection scheme whereby `UObjects` that are no longer referenced or have been explicitly flagged for destruction will be cleaned up at regular intervals. The engine builds a reference graph to determine which `UObjects` are still in use and which ones are orphaned. At the root of this graph is a set of `UObjects` designated as the "root set". Any `UObject` can be added to the root set. When garbage collection occurs, the engine can track all referenced `UObjects` by searching the tree of known `UObject` references, starting from the root set. Any unreferenced `UObjects`, meaning those which are not found in the tree search, will be assumed to be unneeded, and will be removed.
 >
 > [Unreal Object Handling in Unreal Engine \| Unreal Engine 5.5 Documentation \| Epic Developer Community](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-object-handling-in-unreal-engine#garbagecollection)
+
+## 针对UPROPERTY的优化设计
+
+UE源码中，能看到很多的Property并没有被标记为 `UPROPERTY`。这种设计往往会通过持有引用的方式来保证不被垃圾回收。
+
+这样做的目的是优化垃圾回收的性能，减少特别追踪的数量。
