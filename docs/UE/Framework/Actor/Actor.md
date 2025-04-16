@@ -129,7 +129,7 @@ FORCEINLINE const FTransform& AActor::ActorToWorld() const
 	
 	When bManualAttachment is set, automatic attachment is skipped and it is up to the user to attach the resulting component (or set it up as the root) themselves.
 
-### 注册
+### 注册和注销
 
 ## 组件和Actor层级结构
 

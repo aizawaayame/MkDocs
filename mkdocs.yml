@@ -191,6 +191,8 @@ nav:
     - Framework:
       - Actor:
         - UE/Framework/Actor/Actor.md
+      - Camera:
+        - UE/Framework/Camera/相机系统.md
     - Network:
       - UE/Network/Actor Role and Remote Role.md
   - Project:

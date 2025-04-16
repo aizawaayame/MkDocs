@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE/Framework/Actor/Actor.md",
+                "file": "UE/Framework/Camera/相机系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Actor"
+              "title": "相机系统"
             }
           }
         ]
@@ -174,10 +174,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "UE/Framework/Actor/Actor.md"
+                "file": "UE/Framework/Camera/相机系统.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Actor"
+              "title": "File properties for 相机系统"
             }
           },
           {
@@ -215,8 +215,10 @@
   },
   "active": "be04d1a90a5d8eaf",
   "lastOpenFiles": [
-    "Reference/Build-In/Grid.md",
     "UE/Framework/Actor/Actor.md",
+    "UE/Framework/Camera/相机系统.md",
+    "UE/Framework/Camera",
+    "Reference/Build-In/Grid.md",
     "C++/编译器/编译器优化/拷贝省略、RVO、NRVO优化策略.md",
     "Project/UE/OnaGameSample/攀爬.md",
     "UE/Core/GC/UE垃圾回收概述和应用.md",
@@ -250,8 +252,6 @@
     "C++/语法/对象和类/this指针.md",
     "C++/语法/对象和类",
     "C++/语法/关键字/nullptr.md",
-    "C++/语法/关键字/static.md",
-    "C++/编译器/编译器优化",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",
