@@ -34,7 +34,7 @@ theme:
   # - navigation.instant.prefetch
   # - navigation.instant.progress
   # - navigation.prune
-  - navigation.sections
+  # - navigation.sections
   - navigation.tabs
   # - navigation.tabs.sticky
   - navigation.top
@@ -138,6 +138,7 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
+  - obsidian-bridge
 
 # Additional configuration
 extra:
@@ -183,11 +184,10 @@ nav:
       - 编译器优化:
         - C++/编译器/编译器优化/拷贝省略、RVO、NRVO优化策略.md
   - UE:
-    - Core:
-      - Physics:
-        - UE/Core/Physics/轴向.md
-      - GC:
-        - UE/Core/GC/UE垃圾回收概述和应用.md
+    - Physics:
+      - UE/Physics/轴向.md
+    - GC:
+      - UE/GC/UE垃圾回收概述和应用.md
     - Framework:
       - Actor:
         - UE/Framework/Actor/Actor.md
@@ -196,11 +196,18 @@ nav:
     - Network:
       - UE/Network/Actor Role and Remote Role.md
   - Project:
-    - UE:
-      - OnaGameSample:
-        - Project/UE/OnaGameSample/走跑混合.md
-        - Project/UE/OnaGameSample/攀爬.md
-        - Project/UE/OnaGameSample/相机模块设计.md
+    - OnaGameSample:
+      - Project/OnaGameSample/走跑混合.md
+      - Project/OnaGameSample/攀爬.md
+      - Project/OnaGameSample/相机模块设计.md
+  - Algorithm:
+    - 搜索:
+      - Algorithm/搜索/DFS(搜索).md
+      - Algorithm/搜索/BFS(搜索).md
+    - 图论:
+      - Algorithm/图论/图的存储.md
+      - Algorithm/图论/BFS.md
+      - Algorithm/图论/DFS.md
   - Reference:
     - Reference/Build-In/index.md
     - Reference/Build-In/Admonition.md

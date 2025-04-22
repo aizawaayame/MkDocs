@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE/Framework/Camera/相机系统.md",
+                "file": "Algorithm/图论/BFS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "相机系统"
+              "title": "BFS"
             }
           }
         ]
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 347.5
   },
   "right": {
     "id": "2e48406cb8e53162",
@@ -174,10 +174,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "UE/Framework/Camera/相机系统.md"
+                "file": "Algorithm/图论/BFS.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 相机系统"
+              "title": "File properties for BFS"
             }
           },
           {
@@ -186,21 +186,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/UE5/Animation/骨架变换模式.md",
+                "file": "Algorithm/图论/BFS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 骨架变换模式"
+              "title": "Outline of BFS"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 469.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,21 +210,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "be04d1a90a5d8eaf",
   "lastOpenFiles": [
-    "UE/Framework/Actor/Actor.md",
+    "Algorithm/搜索/BFS(搜索).md",
+    "Algorithm/图论/图的存储.md",
+    "Project/OnaGameSample/攀爬.md",
+    "Algorithm/图论/BFS.md",
+    "Algorithm/搜索/DFS(搜索).md",
+    "Algorithm/图论/DFS.md",
+    "Project/OnaGameSample/相机模块设计.md",
+    "Project/OnaGameSample/走跑混合.md",
+    "Project/OnaGameSample",
+    "Project/OnaGameSample/走跑混合.md",
+    "Project/OnaGameSample/相机模块设计.md",
+    "Project/OnaGameSample/攀爬检测思路.md",
+    "Project/OnaGameSample",
+    "Algorithm/搜索",
+    "Project/UE/OnaGameSample/攀爬检测思路.md",
+    "Algorithm/图论",
+    "Extras/Media/Pasted image 20250422141456.png",
     "UE/Framework/Camera/相机系统.md",
+    "UE/Framework/Actor/Actor.md",
     "UE/Framework/Camera",
     "Reference/Build-In/Grid.md",
     "C++/编译器/编译器优化/拷贝省略、RVO、NRVO优化策略.md",
-    "Project/UE/OnaGameSample/攀爬.md",
-    "UE/Core/GC/UE垃圾回收概述和应用.md",
-    "Project/UE/OnaGameSample/相机模块设计.md",
-    "Project/UE/OnaGameSample/走跑混合.md",
+    "UE/GC/UE垃圾回收概述和应用.md",
     "Extras/Media/9AC5E41A.png",
     "Extras/Media",
     "Extras",
@@ -236,22 +250,8 @@
     "Reference/Build-In/Formatting.md",
     "Reference/Build-In/Footnote.md",
     "Reference/Build-In/Content Tab.md",
-    "Project/UE/OnaGameSample",
     "Project/UE",
-    "Project/UE Project/OnaGameSample/攀爬.md",
-    "Project/UE Project/OnaGameSample/走跑混合.md",
-    "Project/UE Project/OnaGameSample/相机模块设计.md",
     "Project/UE Project/OnaGameSample",
-    "Project/UE Project",
-    "Project/OnaGameSample/UE Project/相机模块设计.md",
-    "Project/OnaGameSample/UE Project/攀爬.md",
-    "Project/OnaGameSample/UE Project",
-    "Project/OnaGameSample/攀爬.md",
-    "Project/OnaGameSample/相机模块设计.md",
-    "Project/OnaGameSample/走跑混合.md",
-    "C++/语法/对象和类/this指针.md",
-    "C++/语法/对象和类",
-    "C++/语法/关键字/nullptr.md",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",
@@ -262,7 +262,6 @@
     "Extras/Media/IMG20221230112352.jpg",
     "Extras/Media/Pasted Image 20220320190802_762.png",
     "Extras/Draws/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Extras/Draws/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Extras/Draws/Scripts/Downloaded/Add Connector Point.svg"
+    "Extras/Draws/Scripts/Downloaded/Add Link to Existing File and Open.svg"
   ]
 }
