@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/图论/BFS.md",
+                "file": "Algorithm/图论/图的存储.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BFS"
+              "title": "图的存储"
             }
           }
         ]
@@ -174,10 +174,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Algorithm/图论/BFS.md"
+                "file": "Algorithm/图论/图的存储.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for BFS"
+              "title": "File properties for 图的存储"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/图论/BFS.md",
+                "file": "Algorithm/图论/图的存储.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BFS"
+              "title": "Outline of 图的存储"
             }
           }
         ],
@@ -215,10 +215,10 @@
   },
   "active": "be04d1a90a5d8eaf",
   "lastOpenFiles": [
+    "Algorithm/图论/BFS.md",
     "Algorithm/搜索/BFS(搜索).md",
     "Algorithm/图论/图的存储.md",
     "Project/OnaGameSample/攀爬.md",
-    "Algorithm/图论/BFS.md",
     "Algorithm/搜索/DFS(搜索).md",
     "Algorithm/图论/DFS.md",
     "Project/OnaGameSample/相机模块设计.md",
