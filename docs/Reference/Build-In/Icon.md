@@ -1,9 +1,17 @@
 ---
+date : 2025-04-03
+title: Icon
+subtitle: 
+draft: false
+pin: false
+categories: 
 date created: 2025-04-03
 date modified: 2025-04-03
 ---
 
 ## Search
+
+[Icons, Emojis - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)
 
 <div class="mdx-iconsearch" data-mdx-component="iconsearch">
   <input
