@@ -20,4 +20,3 @@ mkdocs-glightbox
 mkdocs-roamlinks-plugin
 mkdocs-rss-plugin
 mkdocs-minify-plugin
-git+https://github.com/GooRoo/mkdocs-obsidian-bridge.git@v1.0.4

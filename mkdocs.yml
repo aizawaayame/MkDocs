@@ -129,7 +129,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.blocks.caption
+  # - pymdownx.blocks.caption
 
 # Plugins
 plugins:
@@ -138,7 +138,7 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
-  - obsidian-bridge
+  - roamlinks 
 
 # Additional configuration
 extra:
@@ -168,7 +168,7 @@ extra_css:
 extra_javascript:
   - _static/javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-
+  
 nav:
   - About: index.md
   - C++:
