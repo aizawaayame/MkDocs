@@ -25,3 +25,4 @@ mkdocs-glightbox
 mkdocs-roamlinks-plugin
 mkdocs-rss-plugin
 mkdocs-minify-plugin
+mkdocs-obsidian-bridge
