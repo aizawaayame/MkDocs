@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/搜索/二分搜索.md",
+                "file": "UE/Core/容器/TArray.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "二分搜索"
+              "title": "TArray"
             }
           }
         ],
@@ -199,10 +199,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Algorithm/搜索/二分搜索.md"
+                "file": "UE/Core/容器/TArray.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 二分搜索"
+              "title": "File properties for TArray"
             }
           },
           {
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/搜索/二分搜索.md",
+                "file": "UE/Core/容器/TArray.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 二分搜索"
+              "title": "Outline of TArray"
             }
           }
         ],
@@ -241,7 +241,10 @@
   "active": "0acce574efee466b",
   "lastOpenFiles": [
     "Reference/Build-In/Icon.md",
+    "UE/Core/容器/TArray.md",
     "Algorithm/搜索/二分搜索.md",
+    "UE/Core/容器",
+    "UE/Core",
     "Algorithm/图论/BFS.md",
     "Algorithm/图论/图的存储.md",
     "Algorithm/搜索/DFS(搜索).md",
@@ -275,9 +278,6 @@
     "_static/js/mathjax.js",
     "Reference/Build-In/Admonition.md",
     "Reference/Build-In/Annotation.md",
-    "Reference/Build-In/Code Block.md",
-    "Project/UE",
-    "Project/UE Project/OnaGameSample",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",
