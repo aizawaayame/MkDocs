@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "80145950b3f5da41",
+        "id": "15bdf447e13e2c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "be04d1a90a5d8eaf",
+            "id": "c47caaf88825d951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/图论/BFS.md",
+                "file": "blog/posts/驾照.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BFS"
+              "title": "驾照"
             }
           }
         ]
@@ -174,10 +174,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Algorithm/图论/BFS.md"
+                "file": "blog/posts/驾照.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for BFS"
+              "title": "File properties for 驾照"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/图论/BFS.md",
+                "file": "blog/posts/驾照.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BFS"
+              "title": "Outline of 驾照"
             }
           }
         ],
@@ -213,14 +213,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be04d1a90a5d8eaf",
+  "active": "c47caaf88825d951",
   "lastOpenFiles": [
-    "Algorithm/图论/图的存储.md",
-    "Algorithm/搜索/BFS(搜索).md",
-    "Algorithm/图论/BFS.md",
+    "blog/posts/实现一个基础的智能指针.md",
+    "blog/posts/驾照.md",
+    "blog/index.md",
     "Reference/Build-In/Icon.md",
-    "Project/OnaGameSample/攀爬.md",
+    "Algorithm/图论/BFS.md",
+    "Algorithm/图论/图的存储.md",
+    "Algorithm/搜索/二分搜索.md",
     "Algorithm/搜索/DFS(搜索).md",
+    "Algorithm/搜索/BFS(搜索).md",
+    "Project/OnaGameSample/攀爬.md",
     "Algorithm/图论/DFS.md",
     "Project/OnaGameSample/相机模块设计.md",
     "Project/OnaGameSample/走跑混合.md",
@@ -247,9 +251,6 @@
     "Reference/Build-In/Annotation.md",
     "Reference/Build-In/Code Block.md",
     "Reference/Build-In/index.md",
-    "Reference/Build-In/Formatting.md",
-    "Reference/Build-In/Footnote.md",
-    "Reference/Build-In/Content Tab.md",
     "Project/UE",
     "Project/UE Project/OnaGameSample",
     "Extras/Media/Pasted image 20250127153714.png",

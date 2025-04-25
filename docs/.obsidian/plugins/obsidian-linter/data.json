@@ -38,8 +38,8 @@
       "yaml-keys-to-remove": ""
     },
     "yaml-key-sort": {
-      "enabled": true,
-      "yaml-key-priority-sort-order": "date \ncategory\ntag\ntitle\nsubtitle\ndraft\npin",
+      "enabled": false,
+      "yaml-key-priority-sort-order": "",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
@@ -233,7 +233,7 @@
       "enabled": false
     },
     "add-blank-line-after-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "dedupe-yaml-array-values": {
       "enabled": false,

@@ -4,10 +4,29 @@ title: Icon
 subtitle: 
 draft: false
 pin: false
-categories: 
+categories: []
 date created: 2025-04-03
 date modified: 2025-04-03
 ---
+
+## 常用Icom
+
+`:material-comment:`：:material-comment:  
+`:material-comment-edit:`：:material-comment-edit:  
+`:material-comment-alert:`：:material-comment-alert:  
+`:material-comment-quote:`：:material-comment-quote:  
+`:material-comment-question:`：:material-comment-question:  
+`:material-comment-processing:`：:material-comment-processing:
+
+`:material-pin:`：:material-pin:  
+`:material-tag:`： :material-tag:  
+`:material-xml:`： :material-xml:  
+`:material-table:`： :material-table:
+
+`:simple-cplusplus:`： :simple-cplusplus:  
+`:material-unreal:`：:material-unreal:
+
+`:material-pi:`： :material-pi:
 
 ## Search
 
