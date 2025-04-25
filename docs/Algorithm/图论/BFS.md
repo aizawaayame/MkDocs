@@ -96,7 +96,7 @@ BFS 全称是 [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-firs
 
 :material-numeric-3: 每次从队列 `Q` 中取出队首的节点 `u`，然后把与 `u` 相邻的所有节点 `v` 标记为已访问过并放入队列 `Q`。
 
-### **性质**
+### :material-comment-text: **性质**
 
 :material-numeric-1: 时间复杂度：$O(V + E)$
 

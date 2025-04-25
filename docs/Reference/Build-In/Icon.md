@@ -12,6 +12,7 @@ date modified: 2025-04-03
 ## 常用Icom
 
 `:material-comment:`：:material-comment:  
+`:material-comment-text:`: :material-comment-text:  
 `:material-comment-edit:`：:material-comment-edit:  
 `:material-comment-alert:`：:material-comment-alert:  
 `:material-comment-quote:`：:material-comment-quote:  

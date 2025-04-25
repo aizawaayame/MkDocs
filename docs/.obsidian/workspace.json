@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/posts/驾照.md",
+                "file": "Reference/Build-In/Icon.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "驾照"
+              "title": "Icon"
+            }
+          },
+          {
+            "id": "0acce574efee466b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/搜索/二分搜索.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "二分搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,10 +199,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "blog/posts/驾照.md"
+                "file": "Algorithm/搜索/二分搜索.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 驾照"
+              "title": "File properties for 二分搜索"
             }
           },
           {
@@ -186,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/posts/驾照.md",
+                "file": "Algorithm/搜索/二分搜索.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 驾照"
+              "title": "Outline of 二分搜索"
             }
           }
         ],
@@ -213,17 +238,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c47caaf88825d951",
+  "active": "0acce574efee466b",
   "lastOpenFiles": [
-    "blog/posts/实现一个基础的智能指针.md",
-    "blog/posts/驾照.md",
-    "blog/index.md",
     "Reference/Build-In/Icon.md",
+    "Algorithm/搜索/二分搜索.md",
     "Algorithm/图论/BFS.md",
     "Algorithm/图论/图的存储.md",
-    "Algorithm/搜索/二分搜索.md",
     "Algorithm/搜索/DFS(搜索).md",
     "Algorithm/搜索/BFS(搜索).md",
+    "UE/Physics/轴向.md",
+    "blog/index.md",
+    "blog/posts/实现一个基础的智能指针.md",
+    "blog/posts/驾照.md",
     "Project/OnaGameSample/攀爬.md",
     "Algorithm/图论/DFS.md",
     "Project/OnaGameSample/相机模块设计.md",
@@ -250,7 +276,6 @@
     "Reference/Build-In/Admonition.md",
     "Reference/Build-In/Annotation.md",
     "Reference/Build-In/Code Block.md",
-    "Reference/Build-In/index.md",
     "Project/UE",
     "Project/UE Project/OnaGameSample",
     "Extras/Media/Pasted image 20250127153714.png",

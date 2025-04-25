@@ -202,6 +202,7 @@ nav:
       - Project/OnaGameSample/相机模块设计.md
   - Algorithm:
     - 搜索:
+      - Algorithm/搜索/二分搜索.md
       - Algorithm/搜索/DFS(搜索).md
       - Algorithm/搜索/BFS(搜索).md
     - 图论:
