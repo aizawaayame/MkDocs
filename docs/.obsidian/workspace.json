@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Project/OnaGameSample/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Project/OnaGameSample/index.md"
               },
               "icon": "lucide-info",
               "title": "File properties for index"
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Project/OnaGameSample/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,6 +240,10 @@
   },
   "active": "0acce574efee466b",
   "lastOpenFiles": [
+    "index.md",
+    "Project/OnaGameSample/index.md",
+    "blog/index.md",
+    "Reference/Build-In/index.md",
     "UE/Core/容器/TArray.md",
     "blog/posts/驾照.md",
     "Reference/Build-In/Icon.md",
@@ -251,7 +255,6 @@
     "Algorithm/搜索/DFS(搜索).md",
     "Algorithm/搜索/BFS(搜索).md",
     "UE/Physics/轴向.md",
-    "blog/index.md",
     "blog/posts/实现一个基础的智能指针.md",
     "Project/OnaGameSample/攀爬.md",
     "Algorithm/图论/DFS.md",
@@ -271,13 +274,10 @@
     "UE/Framework/Camera",
     "Reference/Build-In/Grid.md",
     "C++/编译器/编译器优化/拷贝省略、RVO、NRVO优化策略.md",
-    "UE/GC/UE垃圾回收概述和应用.md",
     "Extras/Media/9AC5E41A.png",
     "Extras/Media",
     "Extras",
     "_static/js/mathjax.js",
-    "Reference/Build-In/Admonition.md",
-    "Reference/Build-In/Annotation.md",
     "Extras/Media/Pasted image 20250127153714.png",
     "Atlas/Canvas/🧩白板canvas-示意图.canvas",
     "Inbox/Untitled.canvas",
