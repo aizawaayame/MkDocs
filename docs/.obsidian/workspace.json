@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/OnaGameSample/index.md",
+                "file": "UE/Framework/Camera/相机系统.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "相机系统"
             }
           }
         ],
@@ -130,7 +130,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -199,10 +201,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Project/OnaGameSample/index.md"
+                "file": "UE/Framework/Camera/相机系统.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for 相机系统"
             }
           },
           {
@@ -211,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/OnaGameSample/index.md",
+                "file": "UE/Framework/Camera/相机系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 相机系统"
             }
           }
         ],
@@ -238,10 +240,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0acce574efee466b",
+  "active": "341e789e9187f81a",
   "lastOpenFiles": [
-    "index.md",
+    "UE/AI",
+    "UE/Network/Actor Role and Remote Role.md",
+    "blog/posts/简历归档.md",
     "Project/OnaGameSample/index.md",
+    "index.md",
     "blog/index.md",
     "Reference/Build-In/index.md",
     "UE/Core/容器/TArray.md",
@@ -270,10 +275,7 @@
     "Algorithm/图论",
     "Extras/Media/Pasted image 20250422141456.png",
     "UE/Framework/Camera/相机系统.md",
-    "UE/Framework/Actor/Actor.md",
     "UE/Framework/Camera",
-    "Reference/Build-In/Grid.md",
-    "C++/编译器/编译器优化/拷贝省略、RVO、NRVO优化策略.md",
     "Extras/Media/9AC5E41A.png",
     "Extras/Media",
     "Extras",
