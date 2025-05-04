@@ -28,6 +28,7 @@ __pycache__
 venv
 .venv
 
+
 # Build files
 build
 site
@@ -65,5 +66,7 @@ tmp
 
 # IDEs & Editors
 .idea
+.vscode/
 *~
 docs/.trash
+docs/.obsidian

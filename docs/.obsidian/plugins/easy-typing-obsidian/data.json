@@ -2,7 +2,7 @@
   "Tabout": true,
   "SelectionEnhance": true,
   "IntrinsicSymbolPairs": true,
-  "BaseObEditEnhance": false,
+  "BaseObEditEnhance": true,
   "FW2HWEnhance": true,
   "BetterCodeEdit": true,
   "BetterBackspace": true,
@@ -40,7 +40,7 @@
   ],
   "userSelRuleSettingsOpen": true,
   "userDelRuleSettingsOpen": false,
-  "userCvtRuleSettingsOpen": false,
+  "userCvtRuleSettingsOpen": true,
   "StrictModeEnter": false,
   "StrictLineMode": "enter_twice",
   "EnhanceModA": true,
@@ -48,5 +48,6 @@
   "PuncRectify": true,
   "FixMacOSContextMenu": false,
   "TryFixMSIME": true,
+  "CollapsePersistentEnter": false,
   "EnterTwice": false
 }
