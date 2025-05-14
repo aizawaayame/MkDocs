@@ -194,6 +194,7 @@ nav:
     - Framework:
       - Actor:
         - UE/Framework/Actor/Actor.md
+        - UE/Framework/Actor/Actor生命周期.md
       - Camera:
         - UE/Framework/Camera/相机系统.md
     - Network:
