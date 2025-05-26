@@ -1,10 +1,11 @@
 ---
+tags:
 categories: []
 subtitle: 
 draft: false
 pin: false
 title: 教育背景
-date : 2025-04-02
+date: 2025-04-02
 ---
 
 # 教育背景
@@ -57,7 +58,8 @@ date : 2025-04-02
 - 实现美术最常用的曲线约束，跟随约束和目标点旋转约束等约束功能，优化演出效果，提高了美术的产能。
 
 # 个人项目
+
 用UE C++重写ALS项目。实现文档[走跑混合 - 种田的黄油](https://www.tanedanobata.top/Project/OnaGameSample/%E8%B5%B0%E8%B7%91%E6%B7%B7%E5%90%88/)
 - 用C++逻辑重写动画相关逻辑。
-- (进行中)用Camera Stack设计思路重构相机模块。
+- (进行中)用Camera Stack设计思路重构相机模块。  
 项目地址[GitHub - aizawaayame/OnaGameSample: Rewrite the ALS project using C++.](https://github.com/aizawaayame/OnaGameSample)
