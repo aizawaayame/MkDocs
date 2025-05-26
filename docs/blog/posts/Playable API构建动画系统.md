@@ -1,10 +1,11 @@
 ---
+tags:
 categories: []
 subtitle: 
 draft: false
 pin: false
 title: Playable API构建动画系统
-date : 2025-05-06
+date: 2025-05-14
 ---
 
 ## Why

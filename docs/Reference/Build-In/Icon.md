@@ -5,8 +5,6 @@ subtitle:
 draft: false
 pin: false
 categories: []
-date created: 2025-04-03
-date modified: 2025-04-03
 ---
 
 ## 常用Icom
