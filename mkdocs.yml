@@ -171,6 +171,10 @@ extra_javascript:
   
 nav:
   - About: index.md
+  - 游戏开发技术:
+    - GPGPU:
+      - 游戏开发技术/GPGPU/Compute Shader in Unity.md
+      - 游戏开发技术/GPGPU/Hardware GPGPU.md
   - C++:
     - 语法:
       - 关键字:
