@@ -8,6 +8,9 @@ title: Blend Shape
 date: 2025-05-14
 ---
 
+BlendShape 技术的记录。
+<!-- more -->
+
 ## Why to Use Blend Shape
 
 在制作面部动画的时候，由于人们对面部肌肉运动的敏感性，质量不佳的面部动画很容易出现恐怖谷效应。

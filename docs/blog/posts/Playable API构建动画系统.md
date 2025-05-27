@@ -8,6 +8,9 @@ title: Playable API构建动画系统
 date: 2025-05-14
 ---
 
+Playable 尝试构建动画系统的记录。
+<!-- more -->
+
 ## Why
 
 可控制动画加载策略，按需加载，异步加载。  
